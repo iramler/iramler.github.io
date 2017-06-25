@@ -1,2 +1,4 @@
 name: Ivan Ramler
 markdown: kramdown
+
+permalink: /blog/:year/:month/:day/:title
