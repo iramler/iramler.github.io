@@ -2,15 +2,31 @@ project:
   type: website
 
 website:
-  title: "iramler.github.io"
+  title: "Ivan Ramler"
   navbar:
-    left:
+    right:
       - href: index.qmd
         text: Home
       - about.qmd
+      - teaching.qmd
+      - projects.qmd
+      - text: get in touch!
+              menu:
+                - icon: linkedin
+                  text: LinkedIn
+                  href: https://www.linkedin.com/in/ivan-ramler-a2b45416a/
+                  target: _blank
+                - icon: envelope
+                  text: email
+                  href: mailto:iramelr@stlawu.edu
+            - icon: github
+              href: https://github.com/iramler/iramler.github.io
+              target: _blank
 
 format:
   html:
+    page-layout: full
+    sidebar: false
     theme: cosmo
     css: styles.css
     toc: true
