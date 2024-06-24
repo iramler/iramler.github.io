@@ -3,9 +3,3 @@ title: "iramler.github.io"
 ---
 
 Hello! I am Ivan Ramler, an Associate Professor of Statistics and Data Science at [St. Lawrence University](https://www.stlawu.edu/offices/math-computer-science-and-statistics){target="_blank"}.
-
-I joined the Department of Mathematics, Computer Science, and Statistics at St. Lawrence in winter of 2009 after finishing my PhD in Statistics from Iowa State University. My dissertation work, under the guidance of Dr. Ranjan Maitra, involved improving cluster analysis methods for noisy data and for data constrained to lie on the surface of a multi-dimensional sphere.
-
-My current interests (and projects) focus on applied statistics (& data science) and statistics (& data science) education. In particular, recently most of my work has involved analyzing competitive video game data called “esports” (with a focus on the game League of Legends) and building statistics & data science education materials for the [SCORE Network](https://scorenetwork.org/){target="_blank"}.
-
-I also regularly teach many of St. Lawrence’s Statistics courses (e.g., Intro Stats, Foundations of Data Science, Regression Analysis) and have student research projects with applications in sports, video games, environmental science, modern literature, and much more!

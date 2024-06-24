@@ -22,10 +22,10 @@ website:
             target: _blank
           - icon: envelope
             text: Email
-            href: mailto:iramelr@stlawu.edu
+            href: mailto:iramler@stlawu.edu
           - icon: github
             text: GitHub
-            href: https://github.com/iramler/iramler.github.io
+            href: https://github.com/iramler
             target: _blank
 
 format:
