@@ -1,5 +1,5 @@
 ---
-title: "iramler.github.io"
+title: "Welcome!"
 ---
 
 Hello! I am Ivan Ramler, an Associate Professor of Statistics and Data Science at [St. Lawrence University](https://www.stlawu.edu/offices/math-computer-science-and-statistics){target="_blank"}.
