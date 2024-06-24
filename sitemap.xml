@@ -1,11 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://iramler.github.io/about.html</loc>
-    <lastmod>2024-06-20T20:56:49.543Z</lastmod>
+    <loc>https://iramler.github.io/projects.html</loc>
+    <lastmod>2024-06-24T20:11:50.646Z</lastmod>
   </url>
   <url>
     <loc>https://iramler.github.io/index.html</loc>
-    <lastmod>2024-06-20T20:56:49.543Z</lastmod>
+    <lastmod>2024-06-24T20:11:50.646Z</lastmod>
+  </url>
+  <url>
+    <loc>https://iramler.github.io/teaching.html</loc>
+    <lastmod>2024-06-24T20:11:50.646Z</lastmod>
+  </url>
+  <url>
+    <loc>https://iramler.github.io/about.html</loc>
+    <lastmod>2024-06-24T20:11:50.646Z</lastmod>
   </url>
 </urlset>
