@@ -1,0 +1,23 @@
+---
+title: "Projects"
+---
+
+## Example projects related to current research interests
+
+### SCORE Network
+
+[SCORE](https://scorenetwork.org/index.html){target="_blank"} is a national network for developing and disseminating Sports Content for Outreach, Research, and Education in data science, funded by the National Science Foundation.
+
+My main role in the project is as a content creator - both producing education modules myself and working with St. Lawrence students to produce materials.
+
+Examples of our work can be found at the following:
+
+- [https://modules.scorenetwork.org/](https://modules.scorenetwork.org/){target="_blank"}: contains the completed modules produced across all of SCORE.
+    
+- [https://data.scorenetwork.org/](https://data.scorenetwork.org/){target="_blank"}: A data repository containing sports related datasets.
+
+- [https://iramler.github.io/slu_score_preprints/](https://iramler.github.io/slu_score_preprints/){target="_blank"}: A repository of in-development modules produced by St. Lawrence University students and faculty. Many of the modules linked here are currently under review for inclusion in the SCORE Network's repository linked above.
+
+## Older research projects
+
+<information forthcoming>

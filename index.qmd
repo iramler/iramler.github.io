@@ -3,3 +3,5 @@ title: "Welcome!"
 ---
 
 Hello! I am Ivan Ramler, an Associate Professor of Statistics and Data Science at [St. Lawrence University](https://www.stlawu.edu/offices/math-computer-science-and-statistics){target="_blank"}.
+
+This page serves primarily to provide a brief overview of my professional activities and to act as a simple template for students looking to create their own basic GitHub pages to showcase their accomplishments.
