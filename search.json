@@ -1,10 +1,31 @@
 [
   {
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "Projects",
+    "section": "",
+    "text": "SCORE is a national network for developing and disseminating Sports Content for Outreach, Research, and Education in data science, funded by the National Science Foundation.\nMy main role in the project is as a content creator - both producing education modules myself and working with St. Lawrence students to produce materials.\nExamples of our work can be found at the following:\n\nhttps://modules.scorenetwork.org/: contains the completed modules produced across all of SCORE.\nhttps://data.scorenetwork.org/: A data repository containing sports related datasets.\nhttps://iramler.github.io/slu_score_preprints/: A repository of in-development modules produced by St. Lawrence University students and faculty. Many of the modules linked here are currently under review for inclusion in the SCORE Network’s repository linked above."
+  },
+  {
+    "objectID": "projects.html#example-projects-related-to-current-research-interests",
+    "href": "projects.html#example-projects-related-to-current-research-interests",
+    "title": "Projects",
+    "section": "",
+    "text": "SCORE is a national network for developing and disseminating Sports Content for Outreach, Research, and Education in data science, funded by the National Science Foundation.\nMy main role in the project is as a content creator - both producing education modules myself and working with St. Lawrence students to produce materials.\nExamples of our work can be found at the following:\n\nhttps://modules.scorenetwork.org/: contains the completed modules produced across all of SCORE.\nhttps://data.scorenetwork.org/: A data repository containing sports related datasets.\nhttps://iramler.github.io/slu_score_preprints/: A repository of in-development modules produced by St. Lawrence University students and faculty. Many of the modules linked here are currently under review for inclusion in the SCORE Network’s repository linked above."
+  },
+  {
+    "objectID": "projects.html#older-research-projects",
+    "href": "projects.html#older-research-projects",
+    "title": "Projects",
+    "section": "Older research projects",
+    "text": "Older research projects"
+  },
+  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Welcome!",
     "section": "",
-    "text": "Hello! I am Ivan Ramler, an Associate Professor of Statistics and Data Science at St. Lawrence University."
+    "text": "Hello! I am Ivan Ramler, an Associate Professor of Statistics and Data Science at St. Lawrence University.\nThis page serves primarily to provide a brief overview of my professional activities and to act as a simple template for students looking to create their own basic GitHub pages to showcase their accomplishments."
   },
   {
     "objectID": "teaching.html",
