@@ -1,0 +1,45 @@
+---
+title: "Teaching"
+---
+
+Here is some information about the courses that I teach at St. Lawrence.
+
+::: {.callout-note collapse="true" title="Stat 113 - Applied Statistics" appearance="simple"}
+An introduction to statistics with emphasis on applications. Topics include the description of data with numerical summaries and graphs, the production of data through sampling and experimental design, techniques of making inferences from data such as confidence intervals, and hypothesis tests for both categorical and quantitative data. The course includes an introduction to computer analysis of data with a statistical computing package.
+:::
+
+::: {.callout-note collapse="true" title="Stat 213 - Applied Regression Analysis" appearance="simple"}
+A continuation of Statistics 113 intended for students in the physical, social or behavioral sciences. Topics include simple and multiple linear regression, model diagnostics and testing, residual analysis, transformations, indicator variables, variable selection techniques, logistic regression, and analysis of variance. Most methods assume use of a statistical computing package.
+:::
+
+::: {.callout-note collapse="true" title="Stat/Data 234 - Foundations of Data Science" appearance="simple"}
+An introduction to fundamental data science concepts using modern statistical programming languages and software. The course assumes no prior knowledge of programming but a familiarity with basic statistics is required. The course focuses on building essential data science skills such as data manipulation and visualization, basics of programming, string manipulation, and modern data sources (such as web and databases). Emphasis will be placed on building skills applicable to large scale projects.
+:::
+
+::: {.callout-note collapse="true" title="Stat 313 - Advanced Linear Models" appearance="simple"}
+In previous Statistics courses, normality and independence of errors (residuals) were fundamental assumptions of the models encountered. However, in the real world, things are not always normal or independent. This course will cover more advanced techniques such as generalized linear models (including Poisson regression and Logistic regression) and multilevel models so that students can develop statistical models in a wider range of real-world situations. Pre-req: STAT-213. Offered as scheduling allows.
+:::
+
+::: {.callout-note collapse="true" title="Stat/Data 489 & 498 - Senior Capstone Projects" appearance="simple"}
+Every student pursuing a major in Statistics is required to complete an one-unit research project during their senior year. Data Science majors either complete the the capstone project or may replace it with an approved "Experiential Learning" activity. (This is typically a full-time internship or summer research experience related to Data Science)
+
+Here are a few recent student projects that I have mentored.
+
+-   Applying the Histogram of Oriented Gradients Algorithm for Detecting Grass Lay Direction
+
+-   Applying Generalized Linear Models to Five Peruvian Army-Ant Following Birds
+
+-   Using Interactive Graphics to Visualize Evening Grosbeak Movement and Migration Patterns
+
+-   Introduction to Survival Analysis Modeling Medical Time-to-Event Data Using R Software Packages
+
+-   Dissimilarity Measures for Probability Distributions with an Application to Music Artist Classification
+
+-   Scraping and Analyzing NCAA Data with Applications to Liberty League Volleyball
+
+-   Exploring the Potential of Data Analysis and Machine Learning in the Beer Industry: A Study of IPA Styles
+
+-   Using Logistic Lasso Regression and Ego Networks to Model Synergy in Clash Royale
+
+-   Modeling St. Lawrence County COVID-19 Cases
+:::
