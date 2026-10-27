@@ -2,22 +2,67 @@
 title: "Projects"
 ---
 
-## Example projects related to current research interests
+My work includes developing statistics education materials, contributing to scholarship about teaching and learning with data, and applications to other fields (mainly sports and the environmental sciences). Below are a few ongoing activities and areas of interest.
+
+## Statistics education and public engagement
 
 ### SCORE Network
 
-[SCORE](https://scorenetwork.org/index.html){target="_blank"} is a national network for developing and disseminating Sports Content for Outreach, Research, and Education in data science, funded by the National Science Foundation.
+I work with the [SCORE Network](https://www.scorenetwork.org/){target="_blank"}, an academic–industry collaboration that develops and shares educational resources using sports to teach statistics and data science.
 
-My main role in the project is as a content creator - both producing education modules myself and working with St. Lawrence students to produce materials.
+In addition to serving as an editor for the Network, I develop educational modules, often in collaboration with undergraduate students. Together, we have published several [SCORE Modules](https://modules.scorenetwork.org/){target="_blank"}.
 
-Examples of our work can be found at the following:
+::: {.callout-note appearance="simple" collapse="true"}
+#### Selected SCORE Modules
 
-- [https://modules.scorenetwork.org/](https://modules.scorenetwork.org/){target="_blank"}: contains the completed modules produced across all of SCORE.
-    
-- [https://data.scorenetwork.org/](https://data.scorenetwork.org/){target="_blank"}: A data repository containing sports related datasets.
+- Karadenes, B., Ramler, I., Lock, R. (2026). [*Women’s 100m Olympic Swimming: Comparing Strokes and Eras*](https://modules.scorenetwork.org/swimming/olympic_swimming_100m/){target="_blank"}
 
-- [https://iramler.github.io/slu_score_preprints/](https://iramler.github.io/slu_score_preprints/){target="_blank"}: A repository of in-development modules produced by St. Lawrence University students and faculty. Many of the modules linked here are currently under review for inclusion in the SCORE Network's repository linked above.
+- Johnson, V., Ramler, I. (2026). [*Strength Ratios – Flat Dumbbell Press to Barbell Bench Press*](https://modules.scorenetwork.org/fitness_and_training/dumbbell_barbell_bench_ratio/){target="_blank"}
 
-## Older research projects
+- Rhinehart, F., Ramler, I., Chapman, J. (2025). [*Pickleball: Estimating the Proportion of Dependable DUPR Ratings*](https://modules.scorenetwork.org/pickleball/pickleball_one-proportion-ci/){target="_blank"}
 
-_information forthcoming_
+- Ramler, I., Charalambous, G., Dykstra, A.J. (2024). [*League of Legends – Buffing and Nerfing*](https://modules.scorenetwork.org/esports/league-of-legends-buffing-nerfing){target="_blank"}
+
+- Bigness, A., Ramler, I., Fay, J. (2024). [*NASCAR Transformation Module*](https://modules.scorenetwork.org/motor_sports/nascar_regression_transformation){target="_blank"}
+
+:::
+
+
+
+### What's Going On in This Graph?
+
+I an a free-lance writer and editor for The New York Times Learning Network feature, [*What's Going On in This Graph?*](https://www.nytimes.com/column/whats-going-on-in-this-graph){target="_blank"}.
+
+*What's Going On in This Graph?* is a weekly feature from The New York Times Learning Network and the American Statistical Association that encourages students to explore real-world data visualizations. Through a series of open-ended questions, students practice interpreting graphs, identifying patterns, and communicating their observations. 
+
+
+::: {.callout-note appearance="simple" collapse="true"}
+#### Selected WGOITG Contributions
+
+- **[W.N.B.A. Players' Compensation](https://www.nytimes.com/2026/02/05/learning/whats-going-on-in-this-graph-feb-11-2026.html){target="_blank"}** — Examines W.N.B.A. player compensation and revenue sharing compared with the N.B.A.
+
+- **[Homeowners Insurance](https://www.nytimes.com/2026/01/22/learning/whats-going-on-in-this-graph-feb-4-2026.html){target="_blank"}** — Maps where insurance companies are increasingly declining to renew homeowners' policies.
+
+- **[Butterflies](https://www.nytimes.com/2025/05/01/learning/whats-going-on-in-this-graph-may-7-2025.html){target="_blank"}** — Explores changes in butterfly populations across species from 2000 to 2020.
+
+:::
+
+
+### Esports Analytics
+
+One of my primary research interests is applying statistical methods to competitive video games, particularly *League of Legends*. My work has examined topics such as player behavior, team composition, competitive strategies, and gender differences in player performance. Much of this research involves analyzing large datasets of competitive matches to better understand what contributes to success in these games.
+
+My esports research has also provided opportunities to collaborate with undergraduate students and explore statistical questions that connect my professional interests with my enthusiasm for gaming. This work has resulted in several conference publications, an invited book chapter, and a Best Paper Award at the 2017 International Conference on the Foundations of Digital Games.
+
+::: {.callout-note appearance="simple" collapse="true"}
+#### Selected Esports Publications
+
+- **Identifying and Evaluating Successful Non-Meta Strategies (2017)** — Investigates unconventional competitive strategies in *League of Legends*. Recipient of the FDG 2017 Best Paper Award.
+
+- **Gender Differences in League of Legends (2021)** — Examines differences in gameplay and performance using large-scale match data.
+
+- **The Rise of the Bots (2015)** — Studies automated player behavior in online gaming.
+
+- **Champion Usage (2015)** — Investigates patterns in character selection and usage in *League of Legends*.
+
+:::

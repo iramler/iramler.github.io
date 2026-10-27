@@ -1,37 +1,39 @@
 project:
   type: website
+  output-dir: docs
 
 website:
-  site-url: "https://iramler.github.io/"
   title: "Ivan Ramler"
+  site-url: https://iramler.github.io/
   navbar:
+    background: "#223a54"
+    foreground: "#ffffff"
+    left:
+      - text: Home
+        href: index.qmd
+      - text: Projects
+        href: projects.qmd
+      - text: Teaching
+        href: teaching.qmd
+      - text: CV & Contact
+        href: cv-contact.qmd
     right:
-      - href: index.qmd
-        text: Home
-      - href: about.qmd
-        text: About
-      - href: teaching.qmd
-        text: Teaching
-      - href: projects.qmd
-        text: Projects
-      - text: Get in touch
-        menu:
-          - icon: linkedin
-            text: LinkedIn
-            href: https://www.linkedin.com/in/ivan-ramler-a2b45416a/
-            target: _blank
-          - icon: envelope
-            text: Email
-            href: mailto:iramler@stlawu.edu
-          - icon: github
-            text: GitHub
-            href: https://github.com/iramler
-            target: _blank
+      - icon: github
+        href: https://github.com/iramler
+        aria-label: GitHub
+      - icon: envelope
+        href: mailto:iramler@stlawu.edu
+        aria-label: Email
+  page-footer:
+    left: "© Ivan Ramler"
+    right: "Made with [Quarto](https://quarto.org/)"
 
 format:
   html:
-    page-layout: full
-    sidebar: false
     theme: cosmo
     css: styles.css
-    toc: true
+    toc: false
+    link-external-newwindow: true
+
+execute:
+  freeze: auto

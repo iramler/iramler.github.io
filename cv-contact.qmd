@@ -1,0 +1,17 @@
+---
+title: "CV & Contact"
+---
+
+## Curriculum vitae
+
+[Download my CV (PDF)](files/ramler_cv.pdf)
+
+## Contact
+
+- **Email:** [iramler@stlawu.edu](mailto:iramler@stlawu.edu)
+- **GitHub:** [github.com/iramler](https://github.com/iramler){target="_blank"}
+- **Institution:** [St. Lawrence University](https://www.stlawu.edu/){target="_blank"}
+- [**Google Scholar Profile**](https://scholar.google.com/citations?hl=en&user=WPfeIsUAAAAJ){target="_blank"}
+
+
+<!-- Optional: add verified Google Scholar, ORCID, or other professional links. -->

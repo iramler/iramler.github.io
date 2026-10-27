@@ -1,0 +1,45 @@
+/* Small, understandable overrides to Quarto's Cosmo theme.
+   Start here when changing fonts, colors, or spacing. */
+:root {
+  --site-navy: #223a54;
+  --site-teal: #397d88;
+  --site-cream: #f7f9fb;
+}
+
+body {
+  font-family: system-ui, -apple-system, "Segoe UI", sans-serif;
+  color: #273746;
+}
+
+.navbar-brand { font-weight: 700; letter-spacing: -0.02em; }
+main.content { max-width: 900px; }
+h1, h2, h3 { letter-spacing: -0.025em; }
+h2 { margin-top: 2.3rem; }
+a { color: var(--site-teal); }
+a:hover { color: var(--site-navy); }
+
+.biography-layout { margin-top: 1rem; margin-bottom: 1.5rem; align-items: start; }
+.biography-name { font-size: clamp(2.1rem, 4vw, 2.8rem); margin-top: 0; }
+.biography-layout p { line-height: 1.75; }
+.portrait-placeholder {
+  width: 145px; height: 145px; border-radius: 50%;
+  background: #e8eef2; color: var(--site-navy);
+  display: flex; align-items: center; justify-content: center;
+  font-size: 2.5rem; font-weight: 650; margin: 1rem auto;
+}
+.portrait-photo { width: 145px; height: 145px; object-fit: cover; border-radius: 50%; }
+@media (max-width: 767px) {
+  .biography-layout .column { width: 100% !important; }
+  .portrait-placeholder { margin: 1.5rem 0; }
+}
+
+
+/* Homepage biography text */
+.biography-layout p {
+  font-size: 1rem;
+  line-height: 1.6;
+}
+
+.biography-layout .biography-name {
+  font-size: 2rem;
+}

@@ -1,7 +1,22 @@
 ---
-title: "Welcome!"
+title: ""
+title-block-banner: false
 ---
 
-Hello! I am Ivan Ramler, an Associate Professor of Statistics and Data Science at [St. Lawrence University](https://www.stlawu.edu/offices/math-computer-science-and-statistics){target="_blank"}.
+::: {.columns .biography-layout}
+::: {.column width="78%"}
+# Ivan Ramler {.biography-name}
 
-This page serves primarily to provide a brief overview of my professional activities and to act as a simple template for students looking to create their own basic GitHub pages to showcase their accomplishments.
+**Professor of Statistics and Data Science**  
+[St. Lawrence University](https://www.stlawu.edu/){target="_blank"}
+
+I am a Professor of Statistics and Data Science in the [Department of Mathematics, Computer Science, and Statistics](https://www.stlawu.edu/offices/math-computer-science-and-statistics){target="_blank"} at St. Lawrence University. My professional interests include statistics education, sports analytics, and statistical applications to the biological and environmental sciences.
+
+Much of my scholarly activity focuses on creating educational resources that make statistical thinking accessible and relevant. This includes my work with the [SCORE Network](https://www.scorenetwork.org/){target="_blank"} and contributions to [*What's Going On in This Graph?*](https://www.nytimes.com/column/whats-going-on-in-this-graph){target="_blank"}, a feature of The New York Times Learning Network.
+:::
+::: {.column width="22%"}
+![](images/portrait.jpg){.portrait-photo}
+:::
+:::
+
+For more information, see my [projects](projects.qmd), [teaching](teaching.qmd), or [curriculum vitae and contact details](cv-contact.qmd).
